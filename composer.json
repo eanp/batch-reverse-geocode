@@ -1,0 +1,6 @@
+{
+    "require": {
+        "tonirilix/nested-json-flattener": "^2.1",
+        "peekmo/jsonpath": "^1.1"
+    }
+}
